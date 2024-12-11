@@ -337,6 +337,6 @@ with st.sidebar:
 # Footer
 st.markdown("---")
 st.markdown(
-    "<small style='font-size: 12px;'>Developed by [Your Name]</small>",
+    "<small style='font-size: 12px;'>Developed by Dhanraj</small>",
     unsafe_allow_html=True,
 )
